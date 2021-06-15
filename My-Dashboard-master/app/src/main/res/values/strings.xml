@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyThunder</string>
+    <string name="title">Hi,</string>
+    <string name="nama">Inugami Korone</string>
+    <string name="menu_aplikasi">Mulai Aktivitas</string>
+    <string name="coding">Coding</string>
+    <string name="projek">Projek</string>
+    <string name="desain">Desain</string>
+    <string name="setelan">Setelan</string>
+    <string name="grup">Grup</string>
+    <string name="tugas">Tugas</string>
+    <string name="list">List Projek</string>
+    <string name="lihat">Lihat</string>
+    <string name="project_website">Projek Website</string>
+    <string name="project_design_nicon">Projek Desain \nGambar</string>
+    <string name="login_dan_register">Login dan \nRegister</string>
+</resources>
